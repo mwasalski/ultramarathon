@@ -3,6 +3,9 @@
 ## Description
 This project is about ultramarathons, long-distance running races that exceed the traditional marathon length of 42.195 kilometers.
 
+## Kaggle dataset
+[Kaggle](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running)
+
 ## Installation
 To install this project, follow these steps:
 
