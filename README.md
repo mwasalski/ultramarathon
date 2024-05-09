@@ -6,6 +6,8 @@ This project is about ultramarathons, long-distance running races that exceed th
 ## Kaggle dataset
 [Kaggle](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running)
 
+Dataset set is converted from .csv to .parquet to improve performance and save space!
+
 ## Installation
 To install this project, follow these steps:
 
