@@ -26,10 +26,6 @@ Dataset set is converted from .csv to .parquet to improve performance and save s
 
 To install this project, follow these steps:
 
-1. Clone the repository: `git clone <repository_url>`
+1. Clone the repository: `git clone https://github.com/mwasalski/ultramarathon.git`
 2. Navigate into the project directory: `cd ultramarathon`
-3. Install the dependencies: `<command_to_install_dependencies>`
-
-
-## License
-This project is licensed under the `<license_name>` license.
+3. Install the dependencies: `pip install -r requirements.txt`
